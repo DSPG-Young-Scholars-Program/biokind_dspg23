@@ -1,0 +1,35 @@
+---
+title: "Mastercard_Data"
+output: html_document
+date: "2023-06-20"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+install.packages("readxl")
+```
+
+```{r}
+library(readxl)
+library(ggplot2)
+```
+
+```{r}
+mastercard <- read_excel("mastercard_data.xlsx")
+```
+
+```{r}
+#what does the donation index mean
+colnames(mastercard)
+```
+
+
+```{r}
+ggplot(data = mastercard, aes(x=Month, y=Donation)) + geom_point()
+```
+
+
+
