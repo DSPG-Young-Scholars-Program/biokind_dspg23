@@ -12,7 +12,7 @@ Steps to use this template:
 
 `git fetch --all`
 
-4. Make necessary changes to the template main branch
+4. Make necessary changes to the template main branch (`git checkout template/main`)
   - Reconcile directory structures
   - DELETE the template README.md
   - DELETE the template .gitignore
