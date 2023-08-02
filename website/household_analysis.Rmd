@@ -1,6 +1,6 @@
 ---
-title: "Project Title"
-subtitle: "Methods"
+title: "Household analysis"
+subtitle: "Data Description: Panel Study of Income Dynamics"
 ---
 
 
