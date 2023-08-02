@@ -12,16 +12,14 @@ navbar:
   right:
     - text: "Overview"
       href: index.html
-    - text: "Data"
-      href: data.html
-    - text: "Methods"
-      href: methods.html
+    - text: "Literature Review"
+      href: literature_review.html
+    - text: "Household Analysis"
+      href: household_analysis.html
+    - text: "Donation Trend"
+      href: donation_trend.html
     - text: "Findings"
-      menu:
-        - text: Overview
-          href: findings-overview.html
-        - text: Findings Rmd
-          href: findings-rmd.html
+      href: findings.html
     - text: "Team"
       href: team.html
     - text: ""
