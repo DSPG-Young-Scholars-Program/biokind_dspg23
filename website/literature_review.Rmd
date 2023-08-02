@@ -13,13 +13,15 @@ Overall, we believe hosuehold characteristics and macroeconomic trends are two s
 
 # Reference
 
-
-<div style=“padding-left: 36px;text-indent: -36px;”>
+<div style="padding-left: 36px;text-indent: -36px;">
 <p>Amin, K., &amp; Harris, E. (2020). The effect of investor sentiment on nonprofit donations. <em>Journal of Business Ethics</em>, <em>175</em>(2), 427&ndash;450. https://doi.org/10.1007/s10551-020-04646-7</p>
 <p>Baker, M., &amp; Wurgler, J. (2007). Investor sentiment in the stock market. <em>Journal of Economic Perspectives</em>, <em>21</em>(2), 129&ndash;151. https://doi.org/10.1257/jep.21.2.129</p>
 <p>Indiana University Lily Family School of Philanthropy. (2021). <em>The 2021 Bank of America study of philanthropy: Charitable giving by affluent households</em>. Retrieved July 31, 2023, from https://scholarworks.iupui.edu/server/api/core/bitstreams/ff2ebcdc-fe48-41fe-baf9-6437b62f8bfa/content</p>
 <p>List, J. A. (2011). The market for charitable giving. <em>Journal of Economic Perspectives</em>, <em>25</em>(2), 157&ndash;180. https://doi.org/10.1257/jep.25.2.157</p>
 <p>Meer, J., Miller, D., &amp; Wulfsberg, E. (2016). <em>The Great Recession and charitable giving</em>. https://doi.org/10.3386/w22902</p>
 </div>
+
+
+
 
 
