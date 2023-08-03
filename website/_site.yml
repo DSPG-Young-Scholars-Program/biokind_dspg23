@@ -20,8 +20,6 @@ navbar:
       href: donation_trend.html
     - text: "Findings"
       href: findings.html
-    - text: "Team"
-      href: team.html
     - text: ""
       icon: fa-github
       # Change to your github repo
