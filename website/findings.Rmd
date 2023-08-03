@@ -1,28 +1,10 @@
 ---
-title: "Project Title"
-subtitle: "Example Rmd Page"
+title: "Biokind Analytics"
+subtitle: "Findings"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-# yay
-## R Markdown
+With more longitudinal data, these economic indicators could act as predictors for contributions. When considering our results with previous literature, it is likely that this is true for charities as a whole. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+When looking specifically at healthcare charities our results show that large health crises might more strongly indicate higher contributions. For example, there was a peak in healthcare donations between 2002 and 2005 which does not necessarily match trends in any of the economic indicators. Yet, this period corresponds to the outbreak of SARS pointing to the idea that SARS was a more prominent driver of contributions than economic trends.  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+By providing public access to this data, we hope that healthcare non-profits and research experts can conduct this analysis for free and ultimately expand the scope of our methods. With an understanding of the intricate patronship between societal well-being and economic conditions, we hope that these findings help shed light on this often-debated relationship, specifically in the context of contributions to health care organizations during periods of economic uncertainty.  
